@@ -1,6 +1,5 @@
 node_modules/
 # Ignore all files starting with the letter z
-z.*
 # Ignore filed called .env
-*.env
 # Ignore top-level directory named artifacts
+z*,.env,/artifacts/.
